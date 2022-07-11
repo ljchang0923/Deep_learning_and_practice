@@ -1,1 +1,1 @@
-# Deep_learning_and_practice
+# Deep learning and practice Lab
