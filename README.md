@@ -22,3 +22,10 @@ Deep Q-Network and Deep Deterministic Policy Gradient to play games
 
 ## Lab 7
 ACGAN for synthetic images generation
+
+## Final
+Implement different generative model to perform data augmentation on EEG data
+- VAE
+- AVAE
+- DCGAN
+- WGAN
