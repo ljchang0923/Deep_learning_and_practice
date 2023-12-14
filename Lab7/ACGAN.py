@@ -19,9 +19,6 @@ import torchvision.transforms as transforms
 
 from model import Generator, Discriminator
 from evaluator import evaluation_model
-##https://github.com/togheppi/cDCGAN
-##https://github.com/clvrai/ACGAN-PyTorch
-##https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/acgan
 
 manualSeed = 999
 #manualSeed = random.randint(1, 10000) # use if you want new results
