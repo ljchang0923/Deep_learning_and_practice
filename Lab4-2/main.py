@@ -17,9 +17,6 @@ BATCH_SIZE = 8
 def get_device():
     return 'cuda' if torch.cuda.is_available() else 'cpu'
 
-def i_am_handsome():
-    pass
-
 def train_model(model, train_dl, test_dl, config, device):
     optimizer = getattr(optim, config['optimizer'])(model.parameters(), lr = config['lr'],
                 momentum=config['momentum'], weight_decay=config['weight_decay'])
