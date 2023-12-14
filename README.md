@@ -1,4 +1,4 @@
-# Deep learning and practice Lab
+# Deep learning and practice (DLP)
 
 ## Lab2
 Implement MLP and backpropagation from scratch
